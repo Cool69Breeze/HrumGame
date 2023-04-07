@@ -25,3 +25,4 @@ C:\hrum\HrumGame\HrumGame\obj\Debug\net6.0\refint\HrumGame.dll
 C:\hrum\HrumGame\HrumGame\obj\Debug\net6.0\HrumGame.pdb
 C:\hrum\HrumGame\HrumGame\obj\Debug\net6.0\HrumGame.genruntimeconfig.cache
 C:\hrum\HrumGame\HrumGame\obj\Debug\net6.0\ref\HrumGame.dll
+C:\hrum\HrumGame\HrumGame\bin\Debug\net6.0\Content\2d\bullet.xnb

@@ -1,3 +1,2 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/hrum/HrumGame/HrumGame/Content/2d/player.png","C:/hrum/HrumGame/HrumGame/Content/bin/DesktopGL/2d/player.xnb","TextureProcessor","Texture2DContent",441,16085,0,3709295
-"C:/hrum/HrumGame/HrumGame/Content/2d/target.png","C:/hrum/HrumGame/HrumGame/Content/bin/DesktopGL/2d/target.xnb","TextureProcessor","Texture2DContent",205,3221,0,023393
+"C:/hrum/HrumGame/HrumGame/Content/2d/bullet.png","C:/hrum/HrumGame/HrumGame/Content/bin/DesktopGL/2d/bullet.xnb","TextureProcessor","Texture2DContent",104,885,0,2212633
